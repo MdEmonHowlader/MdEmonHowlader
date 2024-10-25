@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdemonhowlader&show_icons=true&locale=en" alt="mdemonhowlader" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdemonhowlader&" alt="mdemonhowlader" /></p>
+<br clear="both">
+
+<img src="https://github.com/MdEmonHowlader/MdEmonHowlader/blob/output/snake.svg" alt="Snake animation" />
