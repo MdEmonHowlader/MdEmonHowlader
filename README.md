@@ -14,7 +14,7 @@
 - 📫 How to reach me **emon22205101732@diu.edu.bd**
 
 - ⚡ Fun fact **I am funny😅**
--  My Portfolio Link: [Emon Portfolio](https://mdemonhowlader.github.io/Emon-portfolio/#home)
+-  My Portfolio Link: [Emon Portfolio](https://mdemonhowlader.github.io/Emon-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
